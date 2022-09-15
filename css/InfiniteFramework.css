@@ -1,0 +1,50 @@
+:root{
+    --main-blue: #1e90ff;
+    --secondary-blue: #96d1fb;
+    --black: #000;
+    --white: #fff;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+button{
+    font-size: 1.5rem;
+    transition: 0.4s all;
+    cursor: pointer;
+}
+
+.w100{width: 100%;}
+.h100{height: 100%;}
+
+.wt-font{color: var(--white);}
+.bk-font{color: var(--black);}
+
+.mainBlue-background{background-color: var(--main-blue);}
+.secondaryBlue-background{background-color: var(--secondary-blue);}
+.white-background{background-color: var(--white);}
+
+.low-border{border-radius: 8px;}
+.medium-border{border-radius: 16px;}
+.high-border{border-radius: 32px;}
+.veryHigh-border{border-radius: 64px;}
+
+.shadow-animation:hover{transform: translateY(-5px);box-shadow: 0 5px 10px rgba(0, 0 ,0, 0.5);}
+.scale-animation:hover{transform: scale(1.06);}
+
+.container{width: 88%;}
+.inline-b{display: inline-block;}
+
+.flex{display: flex;}
+.flex-start{justify-content: flex-start;}
+.flex-end{justify-content: flex-end;}
+.flex-center{justify-content: center; align-items: center;}
+.flex-column{flex-direction: column;}
+
+.center{margin: 0 auto;}
+
+.i-space{padding: 0.8rem;}
+.e-space{margin: 1rem 0;}
