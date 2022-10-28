@@ -9,6 +9,7 @@
 
 @media(max-width: 900px){
     .w50{width: 88%;}
+    .w35{width: 88%;}
 
     .grid{grid-template-columns: repeat(4, 1fr);}
     .col4{grid-column: span 1;}
