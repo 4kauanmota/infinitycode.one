@@ -1,0 +1,16 @@
+.sh-anim:hover{
+    transform: translateY(-5px); 
+    box-shadow: 0 5px 10px rgba(0, 0 ,0, 0.5);
+}
+
+.scl-anim:hover{transform: scale(1.06);}
+
+.tr-anim:hover{transform: translateX(10px);}
+
+.arr-anim:hover::after{
+    position: absolute;
+    padding: 20px;
+    box-shadow: 2px -2px 0 1px #000 inset;
+    border: solid transparent;
+    border-width: 0 0 2px 2px;
+}

@@ -1,0 +1,24 @@
+@media(max-width: 1280px){
+    .grid{grid-template-columns: repeat(8, 1fr);}
+    .col2{grid-column: span 1;}
+    .col4{grid-column: span 2;}
+    .col6{grid-column: span 4;}
+    .col8{grid-column: span 6;}
+    .col12{grid-column: span 8;}
+}
+
+@media(max-width: 900px){
+    .w50{width: 88%;}
+
+    .grid{grid-template-columns: repeat(4, 1fr);}
+    .col4{grid-column: span 1;}
+    .col6{grid-column: span 2;}
+    .col8{grid-column: span 3;}
+    .col12{grid-column: span 4;}
+}
+
+@media(max-width: 700px){
+    .grid{grid-template-columns: repeat(2, 1fr);}
+    .col8{grid-column: span 2;}
+    .col12{grid-column: span 2;}
+}

@@ -1,0 +1,9 @@
+.flex{display: flex;}
+
+.f-row{flex-direction: row;}
+.f-clm{flex-direction: column;}
+
+.fg1{flex-grow: 1;}
+.fg5{flex-grow: 5;}
+.fg8{flex-grow: 8;}
+.fg10{flex-grow: 10;}

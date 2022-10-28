@@ -1,0 +1,30 @@
+/* Standart backgrounds */
+.mb-bg{background-color: var(--mb);}
+.sb-bg{background-color: var(--sb);}
+
+.mr-bg{background-color: var(--mr);}
+.sr-bg{background-color: var(--sr);}
+
+.mp-bg{background-color: var(--mp);}
+.sp-bg{background-color: var(--sp);}
+
+.mg-bg{background-color: var(--mg);}
+.sg-bg{background-color: var(--sg);}
+
+.my-bg{background-color: var(--my);}
+.sy-bg{background-color: var(--sy);}
+
+.wt-bg{background-color: var(--wt);}
+.bk-bg{background-color: var(--bk);}
+
+
+/* Gradient backgrounds */
+.wt-to-sb{background-image: linear-gradient(to bottom, var(--wt), var(--sb));}
+
+.sb-to-sp{background-image: linear-gradient(to bottom, var(--sb), var(--sp));}
+
+.sp-to-sr{background-image: linear-gradient(to bottom, var(--sp), var(--sr));}
+
+.sr-to-sg{background-image: linear-gradient(to bottom, var(--sr), var(--sg));}
+
+.sg-to-sy{background-image: linear-gradient(to bottom, var(--sg), var(--sy));}

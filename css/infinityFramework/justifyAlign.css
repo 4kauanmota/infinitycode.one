@@ -1,0 +1,20 @@
+.jc-start{justify-content: start;}
+.jc-center{justify-content: center;}
+.jc-ar{justify-content: space-around;}
+.jc-bet{justify-content: space-between;}
+.jc-ev{justify-content: space-evenly;}
+.jc-end{justify-content: end;}
+
+.ji-start{justify-items: start;}
+.ji-center{justify-items: center;}
+.ji-end{justify-items: end;}
+
+.js-start{justify-self: start;}
+.js-center{justify-self: center;}
+.js-end{justify-self: end;}
+
+.ta-center{text-align: center;}
+
+.ai-center{align-items: center;}
+
+.as-center{align-self: center;}
