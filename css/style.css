@@ -3,7 +3,8 @@ html{
 }
 
 .image-position{
-    transform: translateY(-25px);
+    position: relative;
+    top: -2.5rem;
 }
 
 .icon{
@@ -12,4 +13,8 @@ html{
 
 .btn{
     margin-top: 2rem;
+}
+
+.darkMode{
+    
 }

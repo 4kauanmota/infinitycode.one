@@ -1,0 +1,43 @@
+/* Standart backgrounds */
+.wt-bg{background-color: var(--wt);}
+.bk-bg{background-color: var(--bk);}
+
+.mr-bg{background-color: var(--mr);}
+.sr-bg{background-color: var(--sr);}
+
+.mg-bg{background-color: var(--mg);}
+.sg-bg{background-color: var(--sg);}
+
+.mb-bg{background-color: var(--mb);}
+.sb-bg{background-color: var(--sb);}
+
+.mp-bg{background-color: var(--mp);}
+.sp-bg{background-color: var(--sp);}
+
+.my-bg{background-color: var(--my);}
+.sy-bg{background-color: var(--sy);}
+
+
+/* Gradient backgrounds */
+.wt-to-mb-d{background-image: linear-gradient(135deg, var(--wt), var(--mb));}
+.wt-to-sb{background-image: linear-gradient(to bottom, var(--wt), var(--sb));}
+
+
+.bk-to-mb-d{background-image: linear-gradient(135deg, var(--bk), var(--mb));}
+
+.mb-to-bk-d{background-image: linear-gradient(to bottom, var(--mb), var(--bk));}
+.sb-to-sp{background-image: linear-gradient(to bottom, var(--sb), var(--sp));}
+
+.sp-to-sr{background-image: linear-gradient(to bottom, var(--sp), var(--sr));}
+
+.sr-to-sg{background-image: linear-gradient(to bottom, var(--sr), var(--sg));}
+
+.sg-to-sy{background-image: linear-gradient(to bottom, var(--sg), var(--sy));}
+
+
+/* Glassmorphism */
+.wt-glm{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
