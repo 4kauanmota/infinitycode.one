@@ -1,13 +1,11 @@
 .section{
-    margin: 4rem 0;
-    padding: 0 0 2rem 0;
+    padding: 0 0 4rem 0;
 }
 
-.div{margin: 5rem 0;}
+.div{margin: 0 auto 4rem auto;}
 
 .title{
     font-size: 2.5rem; 
-    font-weight: bold;
 }
 
 .i-space{padding: 0.8rem;}

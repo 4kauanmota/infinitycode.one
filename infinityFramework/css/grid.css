@@ -4,6 +4,7 @@
 }
 
 .gap{grid-gap: 1rem;}
+.mr-gap{grid-row-gap: 5rem;}
 .hr-gap{grid-row-gap: 10rem;}
 
 .col1{grid-column: span 1;}

@@ -1,3 +1,5 @@
+.op-anim{opacity: 0.8;} .op-anim:hover{opacity: 1;}
+
 .scl-anim:hover{transform: scale(1.06);}
 
 .tr-anim:hover{transform: translateX(10px);}
@@ -6,3 +8,5 @@
     transform: translateY(-5px); 
     box-shadow: 0 5px 10px rgba(0, 0 ,0, 0.5);
 }
+
+.ts04-all{transition: 0.4s all;}

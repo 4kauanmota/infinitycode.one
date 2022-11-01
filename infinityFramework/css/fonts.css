@@ -11,3 +11,14 @@
 .mb-font{color: var(--mb);} .sb-font{color: var(--sb);}
 
 .mp-font{color: var(--mp);} .sp-font{color: var(--sp);}
+
+.inter{font-family: 'Inter';}
+.montserrat{font-family: 'Montserrat';}
+.ubuntomono{font-family: 'Ubuntu Mono';}
+
+.fw1{font-weight: 100;}
+.fw4{font-weight: 400;}
+.fw5{font-weight: 500;}
+.fw5{font-weight: 600;}
+.fw9{font-weight: 900;}
+.fwbold{font-weight: bold;}
