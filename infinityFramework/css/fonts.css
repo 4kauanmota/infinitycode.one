@@ -1,8 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'); /*Inter*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap'); /*Inter, Montserrat, Ubuntu Mono*/
 
-.wt-font{color: var(--wt);}
-.bk-font{color: var(--bk);}
-.my-font{color: var(--my);}
-.mp-font{color: var(--mp);}
-.mr-font{color: var(--mr);}
-.mb-font{color: var(--mb);}
+.wt-font{color: var(--wt);} .bk-font{color: var(--bk);}
+
+.mr-font{color: var(--mr);} .sr-font{color: var(--sr);}
+
+.my-font{color: var(--my);} .sy-font{color: var(--sy);}
+
+.mg-font{color: var(--mg);} .sg-font{color: var(--sg);}
+
+.mb-font{color: var(--mb);} .sb-font{color: var(--sb);}
+
+.mp-font{color: var(--mp);} .sp-font{color: var(--sp);}

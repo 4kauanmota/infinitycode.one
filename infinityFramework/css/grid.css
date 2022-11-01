@@ -3,7 +3,8 @@
     grid-template-columns: repeat(12, 1fr);
 }
 
-.gap{grid-gap: 10px;}
+.gap{grid-gap: 1rem;}
+.hr-gap{grid-row-gap: 10rem;}
 
 .col1{grid-column: span 1;}
 .col2{grid-column: span 2;}

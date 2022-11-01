@@ -1,10 +1,46 @@
-.w100{width: 100%;} .vw100{width: 100vw;}
-.w95{width: 95%;} .vw95{width: 95vw;}
-.w88{width: 88%;} .vw88{width: 88vw;}
-.w50{width: 50%;} .vw50{width: 50vw;}
-.w35{width: 35%;} .vw25{width: 35vw;}
-.w25{width: 25%;} .vw25{width: 25vw;}
+.w5{width: 5%} .vw5{width: 5vw;} 
+.w10{width: 10%} .vw10{width: 10vw;} 
+.w15{width: 15%} .vw15{width: 15vw;} 
+.w20{width: 20%} .vw20{width: 20vw;} 
+.w25{width: 25%} .vw25{width: 25vw;} 
+.w30{width: 30%} .vw30{width: 30vw;} 
+.w35{width: 35%} .vw35{width: 35vw;} 
+.w40{width: 40%} .vw40{width: 40vw;} 
+.w45{width: 45%} .vw45{width: 45vw;} 
+.w50{width: 50%} .vw50{width: 50vw;} 
+.w55{width: 55%} .vw55{width: 55vw;} 
+.w60{width: 60%} .vw60{width: 60vw;} 
+.w65{width: 65%} .vw65{width: 65vw;} 
+.w70{width: 70%} .vw70{width: 70vw;} 
+.w75{width: 75%} .vw75{width: 75vw;} 
+.w80{width: 80%} .vw80{width: 80vw;} 
+.w85{width: 85%} .vw85{width: 85vw;} 
+.w88{width: 88%} .vw88{width: 88vw;} 
+.w90{width: 90%} .vw90{width: 90vw;} 
+.w95{width: 95%} .vw95{width: 95vw;} 
+.w100{width: 100%} .vw100{width: 100vw;} 
 
-.h100{height: 100%;}
-.vh100{height: 100vh;}
+.w50a{width: 50%;}
+
+.h5{height: 5%} .vh5{height: 5vw;} 
+.h10{height: 10%} .vh10{height: 10vw;} 
+.h15{height: 15%} .vh15{height: 15vw;} 
+.h20{height: 20%} .vh20{height: 20vw;} 
+.h25{height: 25%} .vh25{height: 25vw;} 
+.h30{height: 30%} .vh30{height: 30vw;} 
+.h35{height: 35%} .vh35{height: 35vw;} 
+.h40{height: 40%} .vh40{height: 40vw;} 
+.h45{height: 45%} .vh45{height: 45vw;} 
+.h50{height: 50%} .vh50{height: 50vw;} 
+.h55{height: 55%} .vh55{height: 55vw;} 
+.h60{height: 60%} .vh60{height: 60vw;} 
+.h65{height: 65%} .vh65{height: 65vw;} 
+.h70{height: 70%} .vh70{height: 70vw;} 
+.h75{height: 75%} .vh75{height: 75vw;} 
+.h80{height: 80%} .vh80{height: 80vw;} 
+.h85{height: 85%} .vh85{height: 85vw;} 
+.h88{height: 88%} .vh88{height: 88vw;} 
+.h90{height: 90%} .vh90{height: 90vw;} 
+.h95{height: 95%} .vh95{height: 95vw;} 
+.h100{height: 100%} .vh100{height: 100vh;} 
 

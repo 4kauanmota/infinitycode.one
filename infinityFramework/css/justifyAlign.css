@@ -15,6 +15,17 @@
 
 .ta-center{text-align: center;}
 
-.ai-center{align-items: center;}
+.ac-start{align-content: start;}
+.ac-center{align-content: center;}
+.ac-ar{align-content: space-around;}
+.ac-bet{align-content: space-between;}
+.ac-ev{align-content: space-evenly;}
+.ac-end{align-content: end;}
 
+.ai-start{align-items: start;}
+.ai-center{align-items: center;}
+.ai-end{align-items: end;}
+
+.as-start{align-self: start;}
 .as-center{align-self: center;}
+.as-end{align-self: end;}

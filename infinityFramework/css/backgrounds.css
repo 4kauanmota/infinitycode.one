@@ -1,31 +1,26 @@
 /* Standart backgrounds */
-.wt-bg{background-color: var(--wt);}
-.bk-bg{background-color: var(--bk);}
+.wt-bg{background-color: var(--wt);} .bk-bg{background-color: var(--bk);}
 
-.mr-bg{background-color: var(--mr);}
-.sr-bg{background-color: var(--sr);}
+.mr-bg{background-color: var(--mr);} .sr-bg{background-color: var(--sr);}
 
-.mg-bg{background-color: var(--mg);}
-.sg-bg{background-color: var(--sg);}
+.my-bg{background-color: var(--my);} .sy-bg{background-color: var(--sy);}
 
-.mb-bg{background-color: var(--mb);}
-.sb-bg{background-color: var(--sb);}
+.mg-bg{background-color: var(--mg);} .sg-bg{background-color: var(--sg);}
 
-.mp-bg{background-color: var(--mp);}
-.sp-bg{background-color: var(--sp);}
+.mb-bg{background-color: var(--mb);} .sb-bg{background-color: var(--sb);}
 
-.my-bg{background-color: var(--my);}
-.sy-bg{background-color: var(--sy);}
+.mp-bg{background-color: var(--mp);} .sp-bg{background-color: var(--sp);}
 
 
 /* Gradient backgrounds */
-.wt-to-mb-d{background-image: linear-gradient(135deg, var(--wt), var(--mb));}
-.wt-to-sb{background-image: linear-gradient(to bottom, var(--wt), var(--sb));}
+.wt-to-mb{background-image: linear-gradient(to bottom, var(--wt), var(--mb)); } .wt-to-sb{background-image: linear-gradient(to bottom, var(--wt), var(--sb));}
+.wt-to-bk-d{background-image: linear-gradient(135deg, var(--wt), var(--bk));}
+.wt-to-mb-d{background-image: linear-gradient(135deg, var(--wt), var(--mb));} .wt-to-sb-d{background-image: linear-gradient(135deg, var(--wt), var(--sb));}
 
+.bk-to-wt-d{background-image: linear-gradient(135deg, var(--bk), var(--wt));}
+.bk-to-mb-d{background-image: linear-gradient(135deg, var(--bk), var(--mb));} .bk-to-sb-d{background-image: linear-gradient(135deg, var(--bk), var(--sb));}
 
-.bk-to-mb-d{background-image: linear-gradient(135deg, var(--bk), var(--mb));}
-
-.mb-to-bk-d{background-image: linear-gradient(to bottom, var(--mb), var(--bk));}
+.mb-to-bk-d{background-image: linear-gradient(135deg, var(--mb), var(--bk));}
 .sb-to-sp{background-image: linear-gradient(to bottom, var(--sb), var(--sp));}
 
 .sp-to-sr{background-image: linear-gradient(to bottom, var(--sp), var(--sr));}
@@ -38,6 +33,12 @@
 /* Glassmorphism */
 .wt-glm{
     background: rgba( 255, 255, 255, 0.25 );
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.bk-glm{
+    background: rgba( 0, 0, 0, 0.25 );
+    backdrop-filter: blur( 4px );
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
