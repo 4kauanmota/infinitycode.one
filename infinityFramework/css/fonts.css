@@ -16,9 +16,15 @@
 .montserrat{font-family: 'Montserrat';}
 .ubuntomono{font-family: 'Ubuntu Mono';}
 
+.fs1{font-size: 1rem;}
+.fs105{font-size: 1.5rem;}
+.fs2{font-size: 2rem;}
+.fs3{font-size: 3rem;}
+.fs4{font-size: 4rem;}
+
 .fw1{font-weight: 100;}
 .fw4{font-weight: 400;}
 .fw5{font-weight: 500;}
 .fw5{font-weight: 600;}
 .fw9{font-weight: 900;}
-.fwbold{font-weight: bold;}
+.fwb{font-weight: bold;}

@@ -1,5 +1,6 @@
 @media(max-width: 1200px){
     .w50a{width: 60%;}
+    .w60a{width: 70%;}
 
     .grid{grid-template-columns: repeat(8, 1fr);}
     .col2{grid-column: span 1;}
@@ -15,6 +16,7 @@
     }
 
     .w50a{width: 70%;}
+    .w60a{width: 80%;}
 
     .grid{grid-template-columns: repeat(4, 1fr);}
     .col4{grid-column: span 1;}
@@ -25,6 +27,7 @@
 
 @media(max-width: 720px){
     .w50a{width: 80%;}
+    .w60a{width: 85%;}
 
     .grid{grid-template-columns: repeat(2, 1fr);}
     .col8{grid-column: span 2;}
@@ -36,7 +39,8 @@
         font-size: 8px;
     }
 
-    .w50a{width: 90%;}
+    .w50a{width: 85%;}
+    .w60a{width: 90%;}
 
     .grid{grid-template-columns: repeat(2, 1fr);}
     .col8{grid-column: span 2;}
