@@ -19,3 +19,7 @@ html{
 .darkMode{
     
 }
+
+.all-elements-area{
+    z-index: -8;
+}

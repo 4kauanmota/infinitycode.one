@@ -22,6 +22,7 @@
   top: 7px;
   left: 7px;
   transition: 0.5s all;
+  border-radius: 64px;
 } .b-pastel:hover i {
   opacity: 1;
   transform: translateX(-6px);
@@ -29,6 +30,8 @@
   top: 0px;
   left: 0px;
 } 
+.b-pastel-wt::after {background-color: var(--wt);} 
+.b-pastel-bk::after {background-color: var(--bk);} 
 .b-pastel-mb::after {background-color: var(--mb);} 
 
 .c-pointer{cursor: pointer;}

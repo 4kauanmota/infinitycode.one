@@ -2,8 +2,6 @@
 
 @import url(colors.css);
 
-@import url(darkMode.css);
-
 @import url(sizes.css);
 
 @import url(tags.css);
@@ -21,6 +19,8 @@
 @import url(buttons.css);
 
 @import url(animations.css);
+
+@import url(effects.css);
 
 @import url(positions.css);
 
