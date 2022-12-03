@@ -30,8 +30,8 @@
   top: 0px;
   left: 0px;
 } 
-.b-pastel-wt::after {background-color: var(--wt);} 
+.b-pastel-wt::after {background-color: var(--wt); opacity: .5;} 
 .b-pastel-bk::after {background-color: var(--bk);} 
-.b-pastel-mb::after {background-color: var(--mb);} 
+.b-pastel-mb::after {background-color: var(--mb);}
 
 .c-pointer{cursor: pointer;}

@@ -45,9 +45,4 @@
     .grid{grid-template-columns: repeat(2, 1fr);}
     .col8{grid-column: span 2;}
     .col12{grid-column: span 2;}
-
-    .b-pastel::after {
-        top: 0px;
-        left: 0px;
-    } 
 }
