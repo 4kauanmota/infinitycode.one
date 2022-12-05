@@ -1,12 +1,21 @@
-.op-anim{opacity: 0.8;} .op-anim:hover{opacity: 1;}
+.anim-op{opacity: 0.8;} .anim-op:hover{opacity: 1;}
 
-.scl-anim:hover{transform: scale(1.06);}
+.anim-scl:hover{transform: scale(1.06);}
 
-.tr-anim:hover{transform: translateX(10px);}
+.anim-tr:hover{transform: translateX(10px);}
 
-.sh-anim:hover{
+.anim-sh:hover{
     transform: translateY(-5px); 
     box-shadow: 0 5px 10px rgba(0, 0 ,0, 0.5);
 }
 
+.ts01{transition: 0.1s all;}
+.ts02{transition: 0.2s all;}
+.ts03{transition: 0.3s all;}
 .ts04{transition: 0.4s all;}
+.ts05{transition: 0.5s all;}
+.ts06{transition: 0.6s all;}
+.ts07{transition: 0.7s all;}
+.ts08{transition: 0.8s all;}
+.ts09{transition: 0.9s all;}
+.ts1{transition: 1s all;}

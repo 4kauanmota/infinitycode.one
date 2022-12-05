@@ -1,0 +1,11 @@
+.glms-mw{
+    background: rgba( 255, 255, 255, 0.25 );
+    backdrop-filter: blur( 4px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.glms-mbk{
+    background: rgba( 0, 0, 0, 0.25 );
+    backdrop-filter: blur( 4px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}

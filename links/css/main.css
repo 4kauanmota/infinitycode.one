@@ -1,3 +1,9 @@
+@import url(gradients.css);
+
+@import url(glassmorphism.css);
+
+@import url(buttons.css);
+
 html{
     font-family: 'Inter', sans-serif;
 }
@@ -10,16 +16,4 @@ html{
 .icon{
     width: 4.5rem;
     margin-left: 1rem;
-}
-
-.btn{
-    margin-top: 2rem;
-}
-
-.darkMode{
-    
-}
-
-.all-elements-area{
-    z-index: -8;
 }

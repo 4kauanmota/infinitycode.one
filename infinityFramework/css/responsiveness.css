@@ -1,13 +1,20 @@
 @media(max-width: 1200px){
-    .w50a{width: 60%;}
-    .w60a{width: 70%;}
+    .w10-a{width: 20%;}
+    .w20-a{width: 30%;}
+    .w30-a{width: 40%;}
+    .w40-a{width: 50%;}
+    .w50-a{width: 60%;}
+    .w60-a{width: 70%;}
+    .w70-a{width: 80%;}
+    .w80-a{width: 90%;}
+    .w90-a{width: 100%;}
 
-    .grid{grid-template-columns: repeat(8, 1fr);}
-    .col2{grid-column: span 1;}
-    .col4{grid-column: span 2;}
-    .col6{grid-column: span 4;}
-    .col8{grid-column: span 6;}
-    .col12{grid-column: span 8;}
+    .grid-a{grid-template-columns: repeat(8, 1fr);}
+    .col2-a{grid-column: span 1;}
+    .col4-a{grid-column: span 2;}
+    .col6-a{grid-column: span 4;}
+    .col8-a{grid-column: span 6;}
+    .col12-a{grid-column: span 8;}
 }
 
 @media(max-width: 960px){
@@ -15,23 +22,34 @@
         font-size: 12px;
     }
 
-    .w50a{width: 70%;}
-    .w60a{width: 80%;}
+    .w10-a{width: 30%;}
+    .w20-a{width: 40%;}
+    .w30-a{width: 50%;}
+    .w40-a{width: 60%;}
+    .w50-a{width: 70%;}
+    .w60-a{width: 80%;}
+    .w70-a{width: 90%;}
+    .w80-a{width: 100%;}
 
-    .grid{grid-template-columns: repeat(4, 1fr);}
-    .col4{grid-column: span 1;}
-    .col6{grid-column: span 2;}
-    .col8{grid-column: span 3;}
-    .col12{grid-column: span 4;}
+    .grid-a{grid-template-columns: repeat(4, 1fr);}
+    .col4-a{grid-column: span 1;}
+    .col6-a{grid-column: span 2;}
+    .col8-a{grid-column: span 3;}
+    .col12-a{grid-column: span 4;}
 }
 
 @media(max-width: 720px){
-    .w50a{width: 80%;}
-    .w60a{width: 85%;}
+    .w10-a{width: 40%;}
+    .w20-a{width: 50%;}
+    .w30-a{width: 60%;}
+    .w40-a{width: 70%;}
+    .w50-a{width: 80%;}
+    .w60-a{width: 90%;}
+    .w70-a{width: 100%;}
 
-    .grid{grid-template-columns: repeat(2, 1fr);}
-    .col8{grid-column: span 2;}
-    .col12{grid-column: span 2;}
+    .grid-a{grid-template-columns: repeat(2, 1fr);}
+    .col8-a{grid-column: span 2;}
+    .col12-a{grid-column: span 2;}
 }
 
 @media(max-width: 480px){
@@ -39,10 +57,12 @@
         font-size: 8px;
     }
 
-    .w50a{width: 85%;}
-    .w60a{width: 90%;}
+    .w10-a{width: 50%;}
+    .w20-a{width: 60%;}
+    .w30-a{width: 70%;}
+    .w40-a{width: 80%;}
 
-    .grid{grid-template-columns: repeat(2, 1fr);}
-    .col8{grid-column: span 2;}
-    .col12{grid-column: span 2;}
+    .grid-a{grid-template-columns: repeat(2, 1fr);}
+    .col8-a{grid-column: span 2;}
+    .col12-a{grid-column: span 2;}
 }

@@ -1,22 +1,24 @@
 :root{
-    --wt: #fff;
-    --bk: #181a1b;
+    --mw: #fff;
+
+    --mbk: #000;
+    --sbk: #181a1b;
 
     --mgy: #3b4043;
     --sgy: #c0c0c0;
 
-    --mr: #ff0000;
-    --sr: #ff7070;
+    --mr: #a91111;
+    --sr: #fd4d4d;
 
-    --my: #ffff00;
-    --sy: #ffd700;
+    --my: #fff12a;
+    --sy: #fff786;
 
-    --mg: #008000;
-    --sg: #3cb371;
+    --mg: #37ca13;
+    --sg: #a0f98a;
 
     --mb: #1e90ff;
     --sb: #96d1fb;
 
-    --mp: #800080;
-    --sp: #ba55d3;
+    --mp: #ae30c8;
+    --sp: #e496f5;
 }

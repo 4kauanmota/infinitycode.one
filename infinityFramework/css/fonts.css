@@ -1,30 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap'); /*Inter, Montserrat, Ubuntu Mono*/
 
-.wt-font{color: var(--wt);} .bk-font{color: var(--bk);}
-
-.mr-font{color: var(--mr);} .sr-font{color: var(--sr);}
-
-.my-font{color: var(--my);} .sy-font{color: var(--sy);}
-
-.mg-font{color: var(--mg);} .sg-font{color: var(--sg);}
-
-.mb-font{color: var(--mb);} .sb-font{color: var(--sb);}
-
-.mp-font{color: var(--mp);} .sp-font{color: var(--sp);}
-
 .inter{font-family: 'Inter';}
 .montserrat{font-family: 'Montserrat';}
 .ubuntomono{font-family: 'Ubuntu Mono';}
 
-.fs1{font-size: 1rem;}
-.fs105{font-size: 1.5rem;}
-.fs2{font-size: 2rem;}
-.fs3{font-size: 3rem;}
-.fs4{font-size: 4rem;}
+.font-cmw{color: var(--mw);} 
 
-.fw1{font-weight: 100;}
-.fw4{font-weight: 400;}
-.fw5{font-weight: 500;}
-.fw5{font-weight: 600;}
-.fw9{font-weight: 900;}
-.fwb{font-weight: bold;}
+.font-cmbk{color: var(--mbk);} .font-csbk{color: var(--sbk);}
+
+.font-cmgy{color: var(--mgy);} .font-csgy{color: var(--sgy);}
+
+.font-cmr{color: var(--mr);} .font-csr{color: var(--sr);}
+
+.font-cmy{color: var(--my);} .font-csy{color: var(--sy);}
+
+.font-cmg{color: var(--mg);} .font-csg{color: var(--sg);}
+
+.font-cmb{color: var(--mb);} .font-csb{color: var(--sb);}
+
+.font-cmp{color: var(--mp);} .font-csp{color: var(--sp);}
+
+.font-s0_5{font-size: 0.5rem;}
+.font-s1{font-size: 1rem;}
+.font-s1_5{font-size: 1.5rem;}
+.font-s2{font-size: 2rem;}
+.font-s2_5{font-size: 2.5rem;}
+.font-s3{font-size: 3rem;}
+.font-s3_5{font-size: 3.5rem;}
+.font-s4{font-size: 4rem;}
+.font-s4_5{font-size: 4.5rem;}
+.font-s5{font-size: 5rem;}
+.font-s5_5{font-size: 5.5rem;}
+.font-s6{font-size: 6rem;}
+.font-s6_5{font-size: 6.5rem;}
+.font-s7{font-size: 7rem;}
+.font-s7_5{font-size: 7.5rem;}
+.font-s8{font-size: 8rem;}
+.font-s8_5{font-size: 8.5rem;}
+.font-s9{font-size: 9rem;}
+.font-s9_5{font-size: 9.5rem;}
+.font-s10{font-size: 10rem;}
+
+.font-w1{font-weight: 100;}
+.font-w2{font-weight: 200;}
+.font-w3{font-weight: 300;}
+.font-w4{font-weight: 400;}
+.font-w5{font-weight: 500;}
+.font-w6{font-weight: 600;}
+.font-w7{font-weight: 700;}
+.font-w8{font-weight: 800;}
+.font-w9{font-weight: 900;}
+.font-wb{font-weight: bold;}

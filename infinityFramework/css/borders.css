@@ -1,6 +1,6 @@
-.l-border{border-radius: 8px;}
-.m-border{border-radius: 16px;}
-.h-border{border-radius: 32px;}
-.vh-border{border-radius: 64px;}
-
-.sh-border{box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );;}
+.border-vl{border-radius: 2px;}
+.border-l{border-radius: 4px;}
+.border-m{border-radius: 8px;}
+.border-h{border-radius: 16px;}
+.border-vh{border-radius: 32px;}
+.border-max{border-radius: 64px;}

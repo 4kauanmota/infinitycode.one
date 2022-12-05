@@ -3,7 +3,13 @@
 .f-row{flex-direction: row;}
 .f-clm{flex-direction: column;}
 
-.fg1{flex-grow: 1;}
-.fg5{flex-grow: 5;}
-.fg8{flex-grow: 8;}
-.fg10{flex-grow: 10;}
+.f-g1{flex-grow: 1;}
+.f-g2{flex-grow: 2;}
+.f-g3{flex-grow: 3;}
+.f-g4{flex-grow: 4;}
+.f-g5{flex-grow: 5;}
+.f-g6{flex-grow: 6;}
+.f-g7{flex-grow: 7;}
+.f-g8{flex-grow: 8;}
+.f-g9{flex-grow: 9;}
+.f-g10{flex-grow: 10;}

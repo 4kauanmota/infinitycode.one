@@ -13,10 +13,6 @@
 .js-center{justify-self: center;}
 .js-end{justify-self: end;}
 
-.ta-center{text-align: center;}
-
-.center{margin: auto;}
-
 .ac-start{align-content: start;}
 .ac-center{align-content: center;}
 .ac-ar{align-content: space-around;}
@@ -31,3 +27,6 @@
 .as-start{align-self: start;}
 .as-center{align-self: center;}
 .as-end{align-self: end;}
+
+.ta-center{text-align: center;}
+.center{margin: 0 auto;}
