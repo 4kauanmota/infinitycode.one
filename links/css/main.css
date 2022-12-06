@@ -8,12 +8,58 @@ html{
     font-family: 'Inter', sans-serif;
 }
 
-.image-position{
-    position: relative;
+.img-position{
     top: -4rem;
+}
+
+.img_logo{
+    -webkit-box-shadow: -9px 9px 15px -6px rgba(0,0,0,0.3);
+    -moz-box-shadow: -9px 9px 15px -6px rgba(0,0,0,0.3);
+    box-shadow: -9px 9px 15px -6px rgba(0,0,0,0.3);
+}
+
+.title{
+    top: -2rem;
 }
 
 .icon{
     width: 4.5rem;
     margin-left: 1rem;
+}
+
+.btn{
+    height: 5rem;
+}
+
+@media(max-width: 960px){
+    
+}
+
+@media(max-width: 720px){
+    .img_logo{
+        width: 35%;
+    }
+
+    .title{
+        top: -1rem;
+    }
+}
+
+@media(max-width: 480px){
+    .btn > div{
+        font-size: 2.5rem;
+    }
+
+    .btn{
+        height: 8rem;
+    }
+
+    .img_logo{
+        width: 40%;
+    }
+
+    .title{
+        font-size: 2.5rem;
+        top: 1rem;
+    }
 }
