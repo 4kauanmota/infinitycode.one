@@ -1,7 +1,7 @@
 .flex{display: flex;}
 
-.f-row{flex-direction: row;}
-.f-clm{flex-direction: column;}
+.f-row{flex-direction: row;} .f-rowr{flex-direction:  row-reverse;}
+.f-clm{flex-direction: column;} .f-clmr{flex-direction: column-reverse;}
 
 .f-g1{flex-grow: 1;}
 .f-g2{flex-grow: 2;}
