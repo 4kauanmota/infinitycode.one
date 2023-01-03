@@ -1,14 +1,18 @@
 :root{
     --mw: #fff;
-
-    --mbk: #000;
-    --sbk: #181a1b;
+    --sw: #efefef
 
     --mgy: #3b4043;
     --sgy: #c0c0c0;
 
+    --mbk: #000;
+    --sbk: #181a1b;
+
     --mr: #a91111;
     --sr: #fd4d4d;
+
+    --mo: #fc4c02;
+    --so: #fc4c02;
 
     --my: #fff12a;
     --sy: #fff786;
